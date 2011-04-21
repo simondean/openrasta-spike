@@ -35,10 +35,6 @@
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="OpenRasta, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
-    <Reference Include="OpenRasta.Codecs.WebForms, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\wraps\_cache\openrasta-aspnet-2.1.0.48827861\bin-net35\OpenRasta.Codecs.WebForms.dll</HintPath>
-    </Reference>
     <Reference Include="OpenRasta.Hosting.AspNet, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\wraps\_cache\openrasta-aspnet-2.1.0.48827861\bin-net35\OpenRasta.Hosting.AspNet.dll</HintPath>
